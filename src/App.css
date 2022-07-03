@@ -1,0 +1,23 @@
+.header{
+  text-align: center;
+  font-size: 45px;
+}
+
+span{
+  color: blue;
+}
+
+.Receipt{
+
+  border-style: solid;
+  border-color: #f8c5b1;
+  padding: 10px;
+  width: 260px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.container{
+display: flex;
+justify-content: center;
+}
